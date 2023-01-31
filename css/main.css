@@ -1,0 +1,217 @@
+/****** Global Styles ******/
+
+.body {
+  font-family: "Source Sans Pro", sans-serif;
+  color: #5e5d5e;
+}
+
+.content-wrapper {
+  margin: 0 auto;
+  overflow: auto;
+  width: 1200px;
+}
+
+.headings {
+  font-family: "Lora", serif;
+}
+
+h2 {
+  font-size: 36px;
+}
+
+.paragraph {
+  font-size: 20px;
+  line-height: 40px;
+}
+
+.subheading {
+  font-size: 24px;
+  line-height: 36px;
+}
+
+/****** Header Styles ******/
+.intro-section {
+  background-color: #f9efef;
+}
+
+.homepage-hero {
+  background: url(../img/full-background.png), #f9efef;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
+  height: 800px;
+}
+
+.page__heading {
+  float: left;
+  font-size: 30px;
+  color: #7b7e54;
+  width: 300px;
+  padding: 65px 0 65px 25px;
+}
+
+.navigation {
+  color: #727172;
+  font-size: 18px;
+  float: right;
+  text-align: right;
+  padding: 75px 25px 75px 0;
+  margin: 0;
+}
+
+.navigation__list {
+  width: 800px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.navigation__list-item {
+  margin: 0;
+  padding: 0 0 0 80px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+
+.navigation__list-item a {
+  color: #727172;
+  margin: 0;
+  padding: 0;
+}
+
+.intro__heading {
+  color: #817f80;
+  font-size: 72px;
+  line-height: 80px;
+  width: 1000px;
+  margin: 0;
+  padding: 20px 0 20px 25px;
+  clear: both;
+}
+
+/****** About Styles ******/
+#about .content-wrapper {
+  margin: 0;
+  padding: 80px 0;
+}
+
+.about__heading {
+  padding: 0 0 0 50px;
+}
+
+#about .paragraph {
+  float: left;
+  padding: 0 50px;
+  width: 500px;
+}
+
+/****** Skill Styles ******/
+.skills-section {
+  background-color: #f5f5f5;
+  text-align: center;
+}
+
+.skills-section .content-wrapper {
+  margin: 0;
+  padding: 115px 0;
+}
+
+.skills-section h2 {
+  margin: 0;
+  padding: 0 0 40px 0;
+}
+
+.skill-list {
+  float: left;
+  width: 300px;
+  margin: 0;
+  padding: 0 50px;
+}
+
+.skills-section .subheading {
+  margin: 30px 0 20px 0;
+  padding: 0;
+}
+
+.skills-section .paragraph {
+  text-align: justify;
+}
+
+/****** Contact Styles ******/
+#contact {
+  background-color: #f9e9e9;
+}
+
+.contact-section {
+  padding: 110px 0;
+}
+
+.contact-image,
+.contact-info {
+  float: left;
+}
+
+.contact-image {
+  width: 525px;
+}
+
+.contact-image img {
+  width: 450px;
+  height: 300px;
+  margin: 0 50px;
+  padding: 0;
+  border: 10px solid white;
+  box-sizing: border-box;
+}
+
+.contact-info {
+  width: 500px;
+  margin: 0;
+  padding: 0 0 0 100px;
+  box-sizing: border-box;
+}
+
+.contact-info h2 {
+  font-weight: 600;
+  margin: 30px 0;
+  padding: 0;
+}
+
+.contact-info .subheading,
+.email {
+  font-weight: 400;
+}
+
+.social-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.social-list_item {
+  display: inline-block;
+  padding-right: 40px;
+}
+
+.contact-info .subheading {
+  margin: 0 0 5px 0;
+  padding: 0;
+}
+
+.email {
+  margin: 0 0 20px 0;
+  padding: 0;
+}
+
+.email a {
+  font-size: 24px;
+  line-height: 36px;
+  color: #5e5d5e;
+  text-decoration: none;
+}
+
+.email img {
+  padding-right: 3px;
+}
