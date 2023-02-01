@@ -127,7 +127,7 @@ h2 {
   float: left;
   width: 300px;
   margin: 0;
-  padding: 0 50px;
+  padding: 0 50px 0 50px;
 }
 
 .skills-section .subheading {
@@ -160,7 +160,7 @@ h2 {
 .contact-image img {
   width: 450px;
   height: 300px;
-  margin: 0 50px;
+  margin: 0 50px 0 50px;
   padding: 0;
   border: 10px solid white;
   box-sizing: border-box;
