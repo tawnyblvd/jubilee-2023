@@ -70,7 +70,7 @@ h2 {
 
 .navigation__list-item {
   margin: 0;
-  padding: 0 0 0 80px;
+  padding: 0 0 0 50px;
   text-transform: uppercase;
   display: inline-block;
 }
@@ -215,3 +215,9 @@ h2 {
 .email img {
   padding-right: 3px;
 }
+
+/****** Projects Page Styles ******/
+
+/****** Projects Page Header Styles ******/
+
+/****** Projects Page Projects Styles ******/
