@@ -221,3 +221,18 @@ h2 {
 /****** Projects Page Header Styles ******/
 
 /****** Projects Page Projects Styles ******/
+.projects-section {
+  background-color: #f5f5f5;
+}
+
+.project {
+  float: left;
+  width: 400px;
+  margin: 0;
+  padding: 0 50px 0 50px;
+  box-sizing: border-box;
+}
+
+.project img {
+  width: 300px;
+}
