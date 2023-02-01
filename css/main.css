@@ -221,6 +221,11 @@ h2 {
 /****** Projects Page Projects Styles ******/
 .projects-section {
   background-color: #f5f5f5;
+  text-align: center;
+}
+
+.projects-section .content-wrapper {
+  padding: 115px 0;
 }
 
 .project {
@@ -231,6 +236,19 @@ h2 {
   box-sizing: border-box;
 }
 
+.projects-section h2 {
+  margin: 0 0 40px 0;
+}
+
 .project img {
   width: 300px;
+}
+
+.project .subheading {
+  margin: 30px 0 20px 0;
+  padding: 0;
+}
+
+.project .paragraph {
+  text-align: justify;
 }
